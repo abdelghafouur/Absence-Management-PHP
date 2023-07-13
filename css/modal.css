@@ -1,0 +1,63 @@
+.modal {
+    display: none;
+    /* Hidden by default */
+    position: fixed;
+    /* Stay in place */
+    z-index: 1;
+    /* Sit on top */
+    left: 19%;
+    top: 25%;
+    width: 60%;
+    height: 50%;
+    overflow: auto;
+    scroll-behavior: smooth;
+
+}
+
+.modal::-webkit-scrollbar {
+    width: 0.8vw;
+}
+
+.modal::-webkit-scrollbar-track {
+    background-color: #16222a;
+}
+
+.modal::-webkit-scrollbar-thumb {
+
+    border-radius: 0;
+}
+
+.modal::-webkit-scrollbar-thumb:hover {
+    background-color: black;
+}
+
+.modal::-webkit-scrollbar-corner {
+    background-color: var(--color1);
+}
+
+.close {
+    color: rgb(6 6 6 / 80%);
+    line-height: 50px;
+    font-size: 4vw;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    width: 65px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.modal-title {
+    color: var(--color1);
+    font-size: 21px;
+
+    margin-left: 34px;
+    margin-bottom: 17px;
+    margin-top: 14px;
+}
+
+.close:hover,
+.close:focus {
+    color: #1b2f69;
+}
