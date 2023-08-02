@@ -24,3 +24,7 @@ Supervisors can use this application to track the absences of their trainees, wh
 
 We welcome contributions from the community to enhance Absence Management. If you encounter any issues or have suggestions for improvement, please submit a pull request or open an issue in the repository.
 
+## Contact 📧
+
+For any inquiries or feedback, please reach out to abdelghafourlahnida01@gmail.com.
+
