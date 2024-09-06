@@ -3,7 +3,7 @@
 Absence Management is a web-based application designed  built with PHP to simplify and automate the management of absences. It serves as an online tool for administrators and supervisors to handle absence requests and notifications.
 Supervisors can use this application to track the absences of their trainees, while administrators can record trainees' absences and delays in the classroom.
 
-## ✨ Key Features
+## ✨ Key Features 
 
 - 📝 Absence Tracking: Easily record and monitor absences, keeping accurate attendance records for individuals or groups.
 - 📊 Absence Reports: Generate comprehensive reports on absences, enabling administrators to analyze trends and make informed decisions.
